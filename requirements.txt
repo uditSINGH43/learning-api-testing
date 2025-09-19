@@ -1,0 +1,8 @@
+requests
+jsonpath-ng
+lxml
+jsonschema
+google-auth
+faker
+pytest-order
+pytest-dependency
