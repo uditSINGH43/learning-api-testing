@@ -1,0 +1,116 @@
+{
+  "students": [
+    {
+      "name": "Rahul Sharma",
+      "class": "10",
+      "gender": "Male",
+      "coding_language": "Python",
+      "preferred_IDE": "PyCharm",
+      "hobbies": [
+        "Cricket",
+        "Gaming",
+        "Reading"
+      ],
+      "grade": "A",
+      "id": "f2f9"
+    },
+    {
+      "name": "Ananya Gupta",
+      "class": "9",
+      "gender": "Female",
+      "coding_language": "Java",
+      "preferred_IDE": "IntelliJ IDEA",
+      "hobbies": [
+        "Dancing",
+        "Sketching",
+        "Coding"
+      ],
+      "grade": "B+",
+      "id": "c56c"
+    },
+    {
+      "name": "Amit Verma",
+      "class": "11",
+      "gender": "Male",
+      "coding_language": "C++",
+      "preferred_IDE": "Visual Studio",
+      "hobbies": [
+        "Football",
+        "Chess"
+      ],
+      "grade": "A-",
+      "id": "1b79"
+    },
+    {
+      "name": "Priya Nair",
+      "class": "12",
+      "gender": "Female",
+      "coding_language": "JavaScript",
+      "preferred_IDE": "VS Code",
+      "hobbies": [
+        "Blogging",
+        "Singing",
+        "Traveling"
+      ],
+      "grade": "A",
+      "id": "19f9"
+    },
+    {
+      "name": "Arjun Mehta",
+      "class": "8",
+      "gender": "Male",
+      "coding_language": "Scratch",
+      "preferred_IDE": "Scratch Online",
+      "hobbies": [
+        "Robotics",
+        "Puzzles"
+      ],
+      "grade": "B",
+      "id": "27c6"
+    },
+    {
+      "id": "ed17",
+      "name": "asheesh jugran",
+      "class": "10",
+      "gender": "unidentified",
+      "coding_language": "rust",
+      "preferred_IDE": "Scratch Offline",
+      "hobbies": [
+        "gooning",
+        "again gooning"
+      ]
+    },
+    {
+      "id": "fce7",
+      "name": "asheesh jugran",
+      "class": "10",
+      "gender": "unidentified",
+      "coding_language": "rust",
+      "preferred_IDE": "Scratch Offline",
+      "hobbies": [
+        "gooning",
+        "again gooning"
+      ]
+    },
+    {
+      "id": "bd24",
+      "name": "Elizabeth Olsen",
+      "location": "America",
+      "phone": "123466464",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "1fb2",
+      "name": "Elizabeth Olsen",
+      "location": "America",
+      "phone": "123466464",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    }
+  ]
+}
