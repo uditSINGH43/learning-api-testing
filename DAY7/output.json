@@ -1,0 +1,8 @@
+{
+  'root': {
+    'city': 'San Jose',
+    'firstName': 'John',
+    'lastName': 'Doe',
+    'state': 'CA'
+  }
+}
